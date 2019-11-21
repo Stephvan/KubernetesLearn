@@ -18,7 +18,7 @@ Azure Container Instances is useful for scenarios that can operate in isolated c
 
 For scenarios where you need full container orchestration, including service discovery across multiple containers, automatic scaling, and coordinated application upgrades, we recommend Azure Kubernetes Service (AKS).
 
-[**Azure Kubernetes Service**](https://docs.microsoft.com/en-us/azure/aks/)
+**[Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/)**
 
 Azure Kubernetes (AKS) is a managed Kubernetes service. I.e. It manages your hosted Kubernetes environment, making it quick and easy to deploy and manage containerized applications without container orchestration expertise (you do not have to be an expert at orchestration to use Kubernetes if you employ yo use AKS)
 
