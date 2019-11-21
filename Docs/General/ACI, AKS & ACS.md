@@ -40,3 +40,8 @@ These providers can also be registered on [Azure portal](https://docs.microsoft.
 ---
 
 Azure Container Registry allows you to build, store, and manage container images and artifacts in a private registry for all types of container deployments.
+
+
+#### Links and further reading:####
+
+[Z, ACI, AKS, ACS in 5 minutes top chrono!](https://medium.com/bitnami-perspectives/az-aci-aks-acs-in-5-minutes-top-chrono-65c9952dfeb8) -- [Sebastien Goasguen](https://medium.com/@sebgoa)
