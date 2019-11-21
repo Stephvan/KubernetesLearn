@@ -36,7 +36,7 @@ $ az provider register -n Microsoft.Storage
 These providers can also be registered on [Azure portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-supported-services#azure-portal).
 
 
-[### Azure Container Registry (ACR) ###](https://docs.microsoft.com/en-us/azure/container-registry/)
+### [Azure Container Registry (ACR)](https://docs.microsoft.com/en-us/azure/container-registry/) ###
 ---
 
 Azure Container Registry allows you to build, store, and manage container images and artifacts in a private registry for all types of container deployments.
