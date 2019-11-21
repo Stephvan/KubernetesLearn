@@ -37,3 +37,4 @@ These providers can also be registered on [Azure portal](https://docs.microsoft.
 
 
 ### Azure Container Registry (ACR) ###
+---
