@@ -33,4 +33,7 @@ $ az provider register -n Microsoft.Network
 $ az provider register -n Microsoft.Storage
 ```
 
-These providers can also be registered on [Azure portal].(https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-supported-services#azure-portal)
+These providers can also be registered on [Azure portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-supported-services#azure-portal).
+
+
+### **Azure Container Registry (ACR)** ###
