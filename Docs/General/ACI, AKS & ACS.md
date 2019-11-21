@@ -20,3 +20,17 @@ For scenarios where you need full container orchestration, including service dis
 
 [**Azure Kubernetes Service**](https://docs.microsoft.com/en-us/azure/aks/)
 
+Azure Kubernetes (AKS) is a managed Kubernetes service. I.e. It manages your hosted Kubernetes environment, making it quick and easy to deploy and manage containerized applications without container orchestration expertise (you do not have to be an expert at orchestration to use Kubernetes if you employ yo use AKS)
+
+You can call AKS the Azure Kubernetes Engine similar to Google Google Kubernetes Engine (GKE).
+
+If you have never used Azure you will need to register a few providers namely for Compute, Network and Storage. The three steps below will do it but note that it may take a few minutes for the registration to complete:
+
+
+```
+$ az provider register -n Microsoft.Compute
+$ az provider register -n Microsoft.Network
+$ az provider register -n Microsoft.Storage
+```
+
+These providers can also be registered on [Azure portal].(https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-supported-services#azure-portal)
