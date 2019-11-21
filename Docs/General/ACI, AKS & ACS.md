@@ -45,10 +45,17 @@ Azure Container Registry allows you to build, store, and manage container images
 #### Links and further reading: ####
 
 [AZ, ACI, AKS, ACS in 5 minutes top chrono!](https://medium.com/bitnami-perspectives/az-aci-aks-acs-in-5-minutes-top-chrono-65c9952dfeb8) -- [Sebastien Goasguen](https://medium.com/@sebgoa)
+
 [Azure Kubernetes Service (AKS](https://docs.microsoft.com/en-us/azure/aks/)
+
 [Azure CLI for Container](https://docs.microsoft.com/en-us/cli/azure/container?view=azure-cli-latest#az-container-create)
+
 [Microsoft Learn -- Introduction to Azure Container Instances](https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/1-introduction)
+
 [Container Services](https://azure.microsoft.com/en-us/product-categories/containers/)
+
 [Container Service (deprecated)](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft.acs)
+
 [Container Service Documentation](https://docs.microsoft.com/en-us/azure/container-service/)
+
 [Azure Container Registry documentation](https://docs.microsoft.com/en-us/azure/container-registry/)
